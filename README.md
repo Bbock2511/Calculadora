@@ -1,0 +1,20 @@
+<h1>Calculadora</h1>
+
+Este projeto fornece uma implementação simples de uma calculadora.
+
+<h2>Funcionalidades</h2>
+Realizar operações matemáticas básicas:
+<ul>
+  <li>Adição</li>
+  <li>Subtração</li>
+  <li>Multiplicação</li>
+  <li>Divisão</li>
+</ul>
+<p>Calcular porcentagem</br>
+Mudar o sinal</p>
+
+<h3>Imagens</h3>
+<div>
+  <img src = "https://private-user-images.githubusercontent.com/128552505/311051725-d7478985-c06e-44d1-bed3-ff775607c60e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk4NDk5NDksIm5iZiI6MTcwOTg0OTY0OSwicGF0aCI6Ii8xMjg1NTI1MDUvMzExMDUxNzI1LWQ3NDc4OTg1LWMwNmUtNDRkMS1iZWQzLWZmNzc1NjA3YzYwZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwN1QyMjE0MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNGRmYjViODE0OWJmYzUzNDNjMTcwZjZjODQzZGFiY2I4ZmZhOWU1ZTg5ZGZkZmYxMTNiYjMxZWU3YTRmNDYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.WR2c64-OM8RF22BUnS-YxnlkZqMLjN4jSE3pS7gYgtw" width = "220px" height = "420px"/>
+  <img src = "https://private-user-images.githubusercontent.com/128552505/311051728-b23154a1-d6d2-4b94-8f37-9b7eca4da343.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk4NDk5NDksIm5iZiI6MTcwOTg0OTY0OSwicGF0aCI6Ii8xMjg1NTI1MDUvMzExMDUxNzI4LWIyMzE1NGExLWQ2ZDItNGI5NC04ZjM3LTliN2VjYTRkYTM0My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwN1QyMjE0MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NjNlMzY3NzI5MjA0YzEzMDAwYzg1YWM3MzVkMTgzYmY4ZjJhNmExNzA5ZjIzMjYwMDgwNGVjYTc3OWRmMmNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.9nppgcgiPv8nUzhh9jEMjSMT43ngh6VIl8ag6uKKOB0" width = "220px" height = "420px"/>
+</div>
